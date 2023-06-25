@@ -152,3 +152,11 @@ Child process have built in Inter process communication channel
 Each process has its own memory and their own v8 memory
 
 
+==================================
+REDIS CACHE 
+===================================
+Redis is a highly performant noSQL database 
+Its stores data in key-value pairs 
+It is an in-memory database 
+It supports multiple data structures like Hashes Lists Sets , Sorted Sets  Bitmaps etc 
+
